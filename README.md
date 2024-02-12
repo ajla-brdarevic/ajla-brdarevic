@@ -16,6 +16,7 @@
 
 🏎️ Fun fact **I'm probably watching F1**
 
+![](https://komarev.com/ghpvc/?username=ajla-brdarevic&color=ff69b4)
 
 <h3 align="left">Add me:</h3>
 <p align="left">
