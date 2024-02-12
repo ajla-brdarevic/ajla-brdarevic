@@ -15,12 +15,13 @@
 
 ---
 
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+### Add me
+  [![facebook](https://github.com/ajla-brdarevic/ajla-brdarevic/blob/main/icons8-facebook-50.png (Facebook))][1]
+  [![instagram](https://github.com/ajla-brdarevic/ajla-brdarevic/blob/main/icons8-instagram-50.png (Instagram))][2]
+  [![twitter](https://github.com/ajla-brdarevic/ajla-brdarevic/blob/main/icons8-twitter-50.png (Twitter))][3]
+  [![linkedin](https://github.com/ajla-brdarevic/ajla-brdarevic/blob/main/icons8-linkedin-50.png (LinkedIn))][4]
 
-[1]: https://www.facebook.com/ajla.brdarevic
-[2]: https://www.instagram.com/_ahiimsa/
-[3]: https://twitter.com/ayllah19
-[4]: https://www.linkedin.com/in/ajla-brdarević/
+  [1]: https://www.facebook.com/ajla.brdarevic
+  [2]: https://www.instagram.com/_ahiimsa/
+  [3]: https://twitter.com/ayllah19
+  [4]: https://www.linkedin.com/in/ajla-brdarević/
