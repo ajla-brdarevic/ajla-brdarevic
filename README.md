@@ -10,11 +10,11 @@
 
 📜 I write articles on [https://naukagovori.ba](https://naukagovori.ba)
 
-💬 Hope your e-mail will find me well **ajlabrdarevic@gmail.com**
+💬 Hope your e-mail will find me well at **ajlabrdarevic@gmail.com**
 
-🤖 I’m currently learning **Embedded systems**
+🤖 I’m currently learning about **Embedded systems**
 
-🏎️ Fun fact **I'm probably watching F1**
+🏎️ Fun fact - **I'm probably watching F1**
 
 ![](https://komarev.com/ghpvc/?username=ajla-brdarevic&color=ff69b4)
 
