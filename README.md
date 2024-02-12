@@ -3,4 +3,4 @@
 ![](https://github.com/ajla-brdarevic/ajla-brdarevic/blob/main/giphy.gif)
 
 ![Ajla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajla-brdarevic&show_icons=true&theme=material-palenight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla-brdarevic&layout=compact&theme=material-palenight&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajla-brdarevic&layout=compact&theme=material-palenight&card_width=450)
