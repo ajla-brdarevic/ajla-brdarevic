@@ -12,7 +12,9 @@
 
 💬 Hope your e-mail will find me well at **ajlabrdarevic@gmail.com**
 
-🤖 I’m currently learning about **Embedded systems**
+🤖 I’m currently learning about **Embedded systems** and **DevOps**
+
+🎓 Master’s student in Software Engineering at the Polytechnic Faculty, University of Zenica
 
 🏎️ Fun fact - **I'm probably watching F1**
 
