@@ -56,5 +56,4 @@
 <p align="left">Testing <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a></p>
 
-<a href="https://wakatime.com/@7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9"><img src="https://wakatime.com/badge/user/7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9.svg" alt="Total time coded since Jan 11 2025" /></a>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9.svg)](https://wakatime.com/@7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9)
