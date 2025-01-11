@@ -57,4 +57,4 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a></p>
 
 [![wakatime](https://wakatime.com/badge/user/7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9.svg)](https://wakatime.com/@7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?user=@7c6b7843-fcf4-4ea0-b5e2-7d5355cfeee9)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayllah00)](https://github.com/anuraghazra/github-readme-stats)
