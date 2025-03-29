@@ -24,6 +24,53 @@
 </p>
 
 ---
+## ML/AI projects:
+- [Movie Ratings Prediction](https://github.com/ajla-brdarevic/Projekat_PI_predvidjanje_ocjena_filma)
+- [Flight Price Prediction](https://github.com/ajla-brdarevic/Predvidjanje-Cijena-Avio-Karata)
+- [AI course assignments](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije)
+- [Detecting DDoS attack](https://github.com/ajla-brdarevic/ddos_attack)
+- [Generating questions from PDF](https://github.com/ajla-brdarevic/pdf_question_generator
+
+## Busineas Intelligence projects:
+- [Movie Ratings Prediction](https://github.com/ajla-brdarevic/Projekat_PI_predvidjanje_ocjena_filma)
+- [Business Intelligence course assignments](https://github.com/ajla-brdarevic/Poslovna-inteligencija)
+
+## Web Apps and Web Pages:
+- [My Portfolio](https://github.com/ajla-brdarevic/ajla-brdarevic.github.io)
+- [Local Event Tracking System](https://github.com/ajla-brdarevic/dogadjaji_219)
+- [Warehouse Inventory Tracking System](https://github.com/ajla-brdarevic/webzalihe_219)
+- [Shanti Yoga Zenica web page](https://github.com/ajla-brdarevic/Shanti-yoga-zenica)
+- [Google Books API](https://github.com/ajla-brdarevic/googlebooks)
+- [Who wants to be a millionaire](https://github.com/ajla-brdarevic/who-wants-to-be-a-millionaire)
+- [Weather App](https://github.com/ajla-brdarevic/weather-app)
+- [REST Countries Project](https://github.com/ajla-brdarevic/restcountries)
+- [Bored API Projet](https://github.com/ajla-brdarevic/bored-api)
+- [Web Design Course Project](https://github.com/ajla-brdarevic/219_AJLA_BRDAREVIC_WEB_DIZAJN_SEMINARSKI_RAD)
+- [IT Girls Web Page](https://github.com/ajla-brdarevic/IT-Girls-web-page)
+
+## Electronics, Embedded systems:
+- [Smart Home](https://github.com/ajla-brdarevic/Smart-Home)
+
+## Application of Numerical Data in Software Engineering Projects:
+- [Final Project - Application for Numerical Differentiation and Numerical Integration](https://github.com/ajla-brdarevic/numericke_aplikacija)
+- [Solving Nonlinear Equations](https://github.com/ajla-brdarevic/Prva-zadaca-iz-PNMuSI-Ajla-Brdarevic)
+- [Solving Systems of Linear Equations](https://github.com/ajla-brdarevic/Druga-zadaca-iz-PNMuSI-Ajla-Brdarevic)
+- [Interpolation](https://github.com/ajla-brdarevic/Treca-zadaca-iz-PNMuSI-Ajla-Brdarevic/blob/master/Treca%20zadaca%20iz%20PNMuSI/main.cpp)
+
+## Testing:
+- [Automated testing - Orea App](https://github.com/ajla-brdarevic/Automatizacija-testnih-slucajeva---KKS)
+  
+## Mobile Apps:
+- [Yummy - Recepies App](https://github.com/ajla-brdarevic/Yummy-RMA)
+- [Mobile App Development Exam](https://github.com/ajla-brdarevic/ASAOsiguranje_ispit)
+- [Really Fast Food App](https://github.com/ajla-brdarevic/ReallyFastFoodApp)
+  
+## Process Automation
+- [Github Portfolio Generator](https://github.com/ajla-brdarevic/GitHub-Portfolio-Generator)
+
+## Software analysis and design
+- [Zecology](https://github.com/ajla-brdarevic/ZEcology)
+---
   
 <div align="center">
   <div style="display: flex;">
