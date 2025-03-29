@@ -29,7 +29,7 @@
 - [Flight Price Prediction](https://github.com/ajla-brdarevic/Predvidjanje-Cijena-Avio-Karata)
 - [AI course assignments](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije)
 - [Detecting DDoS attack](https://github.com/ajla-brdarevic/ddos_attack)
-- [Generating questions from PDF](https://github.com/ajla-brdarevic/pdf_question_generator
+- [Generating questions from PDF](https://github.com/ajla-brdarevic/pdf_question_generator)
 
 ## Busineas Intelligence projects:
 - [Movie Ratings Prediction](https://github.com/ajla-brdarevic/Projekat_PI_predvidjanje_ocjena_filma)
