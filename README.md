@@ -8,8 +8,6 @@
 
 👩🏼‍💻 Get to know me at [https://ajla-brdarevic.github.io](https://ajla-brdarevic.github.io)
 
-📜 I write articles on [https://naukagovori.ba](https://naukagovori.ba)
-
 💬 Hope your e-mail will find me well at **ajlabrdarevic@gmail.com**
 
 🤖 I’m currently learning about **Embedded systems** and **DevOps**
