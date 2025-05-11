@@ -10,11 +10,7 @@
 
 💬 Hope your e-mail will find me well at **ajlabrdarevic@gmail.com**
 
-🤖 I’m currently learning about **Embedded systems** and **DevOps**
-
 🎓 Master’s student in Software Engineering at the Polytechnic Faculty, University of Zenica
-
-🏎️ Fun fact - **I'm probably watching F1**
 
 ![](https://komarev.com/ghpvc/?username=ajla-brdarevic&color=ff69b4)
 
